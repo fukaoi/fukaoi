@@ -11,7 +11,7 @@ Recently, I have been especially interested in building AI tools and programming
   <img src="https://cdn.simpleicons.org/solana/9945FF" width="32" height="32" alt="Solana">
 </p>
 
-![Total stars earned](https://ghstats.dev/api/mini?username=fukaoi&metric=stars)
+![Total stars earned](https://ghstats.dev/api/mini?username=fukaoi&metric=stars&color=e11d48)
 ![Contributions this year](https://ghstats.dev/api/mini?username=fukaoi&metric=contributions&label=This%20year)
 
 ![Most used languages](https://ghstats.dev/api/langs?username=fukaoi&layout=bar&max_langs=6&hide_title=true)
